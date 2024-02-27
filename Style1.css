@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #97c299;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2ec523;
+    color: #070000;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #333;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+footer {
+    background-color: #2ec523;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.nasigoreng-image {
+    display: block;
+    margin: 20px auto; 
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
